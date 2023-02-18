@@ -1,0 +1,93 @@
+/* Set background color and padding for the body element */
+main {
+    background-color: #f1f1f169;
+    padding: 20px;
+
+  }
+  
+  /* Style the h1 element */
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    
+  }
+  
+  /* Style the form element */
+  form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+  
+  /* Style the input elements */
+  input {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the submit button */
+  input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  /* Style the submit button on hover */
+  input[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+
+.offcanvas {
+  display: none;
+}
+.marksinput {
+  width: 85%;
+  height: 100%;
+  border: none;
+  outline: none;
+  font-size: 1.5em;
+  background-color: #f1f1f1;
+  margin: auto;
+}
+.mheading{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+  background-color: aqua;
+  padding: 10px;
+}
+  #mainhead{
+    margin-top: 20px;
+  }
+#marksheet{
+  display: none;
+}
+footer{
+  font-size-adjust: 30px
+  width 500%;
+  height: 50px;
+  background-color: aqua;
+  padding-left: 20px;
+  padding-top: auto;
+  flood-opacity: 20;
+}
+body{
+  background-image: url('Assets/DALL·E_bg.png');
+  opacity: 80%;
+}
+#fts{
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
