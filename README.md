@@ -34,6 +34,7 @@ The website validates that
 2. The failed subjects grade will be  in red color.
 3. The website will now resize all the contents on screens smaller than 600px.
 4. Background image is now fixed and covers the whole site without stretching, before it was repeating itself on y-axisthat created a no too pleasent looking joint above the marksheet banner.
+5. Now any text is acceptable as roll number.
 
 # About Dev
 I'm just a learning developer you can connect with me on [Instagram](https://www.instagram.com/furqan_hi_hun), [Linkedin](https://www.linkedin.com/in/FurqanHun) and [Github](https://github.com/FurqanHun).
