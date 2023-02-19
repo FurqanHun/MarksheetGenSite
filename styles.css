@@ -83,6 +83,10 @@ footer{
 body{
   background-image: url('Assets/DALL·E_bg.png');
   opacity: 80%;
+/* MAKE THE BOTTOM OF BACKGROUND SMOOTH */  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 #fts{
   font-size: 20px;
@@ -90,4 +94,17 @@ body{
   padding-top: 10px;
   text-align: center;
   margin-top: 10px;
+}
+/* Adjust the table size for screens smaller than 600px */
+@media (max-width: 600px) {
+  table {
+    width: 100%;
+  }
+  th, td {
+    font-size: 14px;
+    padding: 5px;
+  }
+  th {
+    text-align: center;
+  }
 }

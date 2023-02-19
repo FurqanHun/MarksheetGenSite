@@ -13,7 +13,7 @@
 <main>
 <body class="marksinput">
         <div>
-            <h1 class="mheading" id="mainhead">Marksheet Generator</h1>
+            <h1 class="mheading" id="mainhead" onclick="location.reload()">Marksheet Generator</h1>
             <div>
                 <form action="javascript:void(0)" method="POST" onsubmit="return generatemarksheet()">
                     <div>
@@ -22,7 +22,7 @@
                     </div>
                     <div>
                         <label for="roll" class="form-label">Roll No.</label>
-                        <input type="number"  class="form-control" name="roll" id="roll" placeholder="Enter your roll no." required>
+                        <input type="text"  class="form-control" name="roll" id="roll" placeholder="Enter your roll no." required>
                     </div>
                     <div>
                         <label for="maths" class="form-label">Maths</label>
@@ -57,7 +57,7 @@
     <!-- Table 1 -->
 
     <div id="marksheet">
-            <h1 class="mheading"><strong>Marksheet</strong></h1>
+            <h1 class="mheading" onclick="location.reload()"><strong>Marksheet</strong></h1>
 
 <table class="table table-bordered">
         <thead style="background-color: aqua;">
