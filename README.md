@@ -18,10 +18,7 @@ I created this website project for **Web Development Bootcamp** hosted by [TECVE
  - Table of the given marks and their individual grades
 3. On opening the site the marksheet isn't visible and would appear only when the user presses "Generate Marsheet" button.
 4. If the user enters the data correctly and the marksheet is generated the website will automatically scroll down to the newly generated marksheet.
-5. Clicking on Marksheet Generator or Marksheet banner will reload the page.
-6. The failed subjects grade will be  in red color.
-7. Passing Remarks would be shown in green color and failing remarks in red color.
-8. A beautiful User Interface. (yes, i did used Bootstrap 5.3.0-alpha1 for UI too)
+5. A beautiful User Interface. (yes, i did used Bootstrap 5.3.0-alpha1 for UI too)
 
 ## Validations or Limitations
 
@@ -30,6 +27,13 @@ The website validates that
  - The input numbers should not be less than 0 and greater th0n 100
  - No field is left empty
  - As this was a mini project i only added 5 subjects names, i wanted to name the user to define how many subjects he wants to calculate marksheet for, subjects names and max marks too but due to time limit i couldn't :(
+
+#Updates
+1. Clicking on Marksheet Generator or Marksheet banner will reload the page.
+2. The failed subjects grade will be  in red color.
+3. Passing Remarks would be shown in green color and failing remarks in red color.
+4. The website will now resize all the contents on screens smaller than 600px.
+5. Background image is now fixed and covers the whole site without stretching, before it was repeating itself on y-axisthat created a no too pleasent looking joint above the marksheet banner.
 
 # About Dev
 I'm just a learning developer you can connect with me on [Instagram](https://www.instagram.com/furqan_hi_hun), [Linkedin](https://www.linkedin.com/in/FurqanHun) and [Github](https://github.com/FurqanHun).
