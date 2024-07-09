@@ -37,4 +37,4 @@ The website validates that
 5. Now any text is acceptable as roll number.
 
 # About Dev
-I'm just a learning developer you can connect with me on [Instagram](https://www.instagram.com/furqan_hi_hun), [Linkedin](https://www.linkedin.com/in/FurqanHun) and [Github](https://github.com/FurqanHun).
+I'm just a learning developer you can connect with me on Discord:`@furqanhun`and [Github](https://github.com/FurqanHun).
